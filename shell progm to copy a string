@@ -1,0 +1,14 @@
+echo
+"Enter
+the string
+read str
+len='echo
+$str | wc-C
+a=0
+while [Sa -le $lenj
+do rev='echo
+$str |cut-c$a
+a-expr $atl
+temp='ec4ho $temp $rev
+done
+echo "The copied string is $temp"
